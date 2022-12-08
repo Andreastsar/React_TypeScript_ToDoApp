@@ -1,0 +1,40 @@
+.new-to-do-form {
+   width: 40rem;
+   margin: 2rem auto;
+}
+
+.new-to-do-form label {
+   display: block;
+   font-weight: bold;
+   margin-bottom: 0.5rem;
+}
+
+.new-to-do-form input {
+   display: block;
+   width: 100%;
+   font-size: 1.5rem;
+   padding: 0.5rem;
+   border-radius: 4px;
+   background-color: #f7f5ef;
+   border: none;
+   border-bottom: 2px solid #494844;
+   border-bottom-right-radius: 0;
+   border-bottom-left-radius: 0;
+   margin-bottom: 0.5rem;
+}
+
+.new-to-do-form button {
+   background-color: #fe4e44;
+   border: 1px solid #000000;
+   color: #fff;
+   padding: 0.5rem 1.5rem;
+   border-radius: 4px;
+   cursor: pointer;
+}
+
+.new-to-do-form button:hover,
+.new-to-do-form button:active {
+   background-color: #ff0000;
+   border-color: #000000;
+   color: black;
+}

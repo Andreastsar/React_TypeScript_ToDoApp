@@ -1,0 +1,11 @@
+.to-do-item {
+   margin: 1rem 0;
+   box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.5);
+   padding: 1rem;
+   background-color: rgb(247, 70, 70);
+   border-radius: 5px;
+}
+
+.button-delete {
+   margin-left: 20rem;
+}
